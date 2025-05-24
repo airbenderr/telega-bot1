@@ -1,0 +1,24 @@
+2025-05-24 18:28:51,659 | INFO | root | Бот запущен...
+2025-05-24 18:28:51,659 | INFO | aiogram.dispatcher | Start polling
+2025-05-24 18:28:51,821 | INFO | aiogram.dispatcher | Run polling for bot @kostin9_bot id=7641726090 - 'Kostya'
+2025-05-24 18:28:57,389 | INFO | aiogram.event | Update id=619333770 is handled. Duration 206 ms by bot id=7641726090
+2025-05-24 18:29:00,019 | INFO | aiogram.event | Update id=619333771 is handled. Duration 179 ms by bot id=7641726090
+2025-05-24 18:29:07,702 | INFO | aiogram.event | Update id=619333772 is handled. Duration 3921 ms by bot id=7641726090
+2025-05-24 18:29:18,833 | INFO | aiogram.event | Update id=619333773 is handled. Duration 4001 ms by bot id=7641726090
+2025-05-24 18:36:19,555 | INFO | aiogram.event | Update id=619333774 is handled. Duration 3416 ms by bot id=7641726090
+2025-05-24 18:36:38,053 | INFO | aiogram.event | Update id=619333775 is handled. Duration 5291 ms by bot id=7641726090
+2025-05-24 18:36:56,536 | INFO | aiogram.event | Update id=619333776 is handled. Duration 5027 ms by bot id=7641726090
+2025-05-24 18:37:10,471 | INFO | aiogram.event | Update id=619333777 is handled. Duration 3387 ms by bot id=7641726090
+2025-05-24 18:37:24,117 | INFO | aiogram.event | Update id=619333778 is handled. Duration 4195 ms by bot id=7641726090
+2025-05-24 18:38:56,989 | INFO | aiogram.event | Update id=619333779 is handled. Duration 4303 ms by bot id=7641726090
+2025-05-24 18:39:26,316 | INFO | aiogram.event | Update id=619333780 is handled. Duration 4899 ms by bot id=7641726090
+2025-05-24 18:39:44,308 | INFO | aiogram.event | Update id=619333781 is handled. Duration 4326 ms by bot id=7641726090
+2025-05-24 18:40:08,628 | INFO | aiogram.event | Update id=619333782 is handled. Duration 3025 ms by bot id=7641726090
+2025-05-24 18:40:18,755 | INFO | aiogram.event | Update id=619333783 is handled. Duration 3170 ms by bot id=7641726090
+2025-05-24 18:40:28,764 | INFO | aiogram.event | Update id=619333784 is handled. Duration 7444 ms by bot id=7641726090
+2025-05-24 18:40:42,915 | INFO | aiogram.event | Update id=619333785 is handled. Duration 4242 ms by bot id=7641726090
+2025-05-24 18:42:08,349 | INFO | aiogram.event | Update id=619333786 is handled. Duration 5339 ms by bot id=7641726090
+2025-05-24 18:42:23,341 | INFO | aiogram.event | Update id=619333787 is handled. Duration 6130 ms by bot id=7641726090
+2025-05-24 18:43:52,866 | INFO | aiogram.event | Update id=619333788 is handled. Duration 77 ms by bot id=7641726090
+2025-05-24 18:43:58,655 | INFO | aiogram.event | Update id=619333789 is handled. Duration 73 ms by bot id=7641726090
+2025-05-24 18:44:02,485 | INFO | aiogram.event | Update id=619333790 is handled. Duration 1962 ms by bot id=7641726090
